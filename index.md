@@ -5,14 +5,14 @@ title: База знаний Кайдзен
 ---
 {% include JB/setup %}
 
-[Рабочее окружение]({% page_url workspace %})
+[Рабочее окружение](/pages/workspace.html)
 
-[Ruby & Rails: шаг за шагом]({% page_url step_by_step %})
+[Ruby & Rails: шаг за шагом](/pages/step_by_step.html)
 
-[Gems]({% page_url gems %})
+[Gems](/pages/gems.html)
 
-[Статьи]({% page_url articles %})
+[Статьи](/pages/articles.html)
 
-[Книги]({% page_url books %})
+[Книги](/pages/books.html)
 
 
