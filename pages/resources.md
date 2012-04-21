@@ -10,6 +10,7 @@ title: "Ресурсы"
 * [rails guides](http://guides.rubyonrails.org/)
 * [apidock.com](http://apidock.com)
 * [ru.wikibooks.org/wiki/Ruby](http://ru.wikibooks.org/wiki/Ruby)
+* [api.rubyonrails.org](http://api.rubyonrails.org/)
 
 ### Блоги
 
@@ -36,3 +37,4 @@ title: "Ресурсы"
 * [newrelic.com](http://newrelic.com/)
 * [travis-ci](http://travis-ci.org/)
 * [relishapp.com](https://www.relishapp.com/)
+* [lucidchart.com](https://www.lucidchart.com/)
