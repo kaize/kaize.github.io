@@ -3,7 +3,7 @@ layout: post
 title: "Иерархия контроллеров"
 description: ""
 category: rails
-tags: [rails]
+tags: [rails, controllers]
 ---
 {% include JB/setup %}
 

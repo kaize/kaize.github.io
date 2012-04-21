@@ -13,6 +13,18 @@ title: "Рабочее окружение"
 
 [Getting Started – Git-Flow](http://yakiloo.com/getting-started-git-flow/)
 
+### soft
+
+[keepassx] - password manager
+
+### chrome extensions
+
+[Ruby API Search](https://chrome.google.com/webstore/detail/fdliacdjhdeaamgoaihcgcbgklomenj)
+
+[XV - XML Viewer](https://chrome.google.com/webstore/detail/eeocglpgjdpaefaedpblffpeebgmgddk)
+
+[JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
+
 ### vim
 
 [AkitaOnRails Vimfiles](https://github.com/akitaonrails/vimfiles)
