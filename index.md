@@ -15,7 +15,7 @@ title: База знаний Кайдзен
 
 [Книги](/pages/books.html)
 
-[Ресурсы](/pages/resoures.html)
+[Ресурсы](/pages/resources.html)
 
 [Правила](/pages/rules.html)
 
