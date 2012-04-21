@@ -13,8 +13,6 @@ title: База знаний Кайдзен
 
 [Правила](/pages/rules.html)
 
-[Правила](/pages/rules.html)
-
 [Статьи](/pages/articles.html)
 
 [Книги](/pages/books.html)

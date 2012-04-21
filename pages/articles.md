@@ -13,4 +13,7 @@ title: "Статьи"
 
 ### Полезное
 
+* [Коды возврата & исключения](http://habrahabr.ru/post/131212/)
 * [устройство индексов](http://www.sql.ru/articles/mssql/03013101indexes.shtml)
+
+

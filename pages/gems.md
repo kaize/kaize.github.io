@@ -37,3 +37,10 @@ title: "Gems"
 * whenever
 * carrierwave
 * backup
+* ancestry
+* breadcrumbs_on_rails
+* acts-as-taggable-on
+* cocoon
+* meta_search
+* money
+

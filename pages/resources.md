@@ -34,3 +34,5 @@ title: "Ресурсы"
 * [ruby-toolbox](https://www.ruby-toolbox.com/)
 * [airbrake](https://airbrakeapp.com/)
 * [newrelic.com](http://newrelic.com/)
+* [travis-ci](http://travis-ci.org/)
+* [relishapp.com](https://www.relishapp.com/)
