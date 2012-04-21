@@ -10,6 +10,7 @@ title: "Gems"
 * [configus](https://github.com/kaize/configus) - управление конфигурациями
 * haml-rails
 * pg
+* unicorn
 * [state_machine]
 * airbrake
 * validates

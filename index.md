@@ -11,12 +11,14 @@ title: База знаний Кайдзен
 
 [Gems](/pages/gems.html)
 
+[Правила](/pages/rules.html)
+
+[Правила](/pages/rules.html)
+
 [Статьи](/pages/articles.html)
 
 [Книги](/pages/books.html)
 
 [Ресурсы](/pages/resources.html)
 
-[Правила](/pages/rules.html)
-
-
+[VIM](/pages/vim.html)
