@@ -19,11 +19,13 @@ keepassx - password manager
 
 ### chrome extensions
 
-[Ruby API Search](https://chrome.google.com/webstore/detail/fdliacdjhdeaamgoaihcgcbgklomenj)
+[Ruby API Search](https://chrome.google.com/webstore/detail/fdliacdjhdeaamgoaihcgcbgklomenji?utm_source=chrome-ntp-icon)
 
 [XV - XML Viewer](https://chrome.google.com/webstore/detail/eeocglpgjdpaefaedpblffpeebgmgddk)
 
 [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
+
+[Advanced REST client Application](https://chrome.google.com/webstore/detail/hgmloofddffdnphfgcellkdfbfbjeloo/related?utm_source=chrome-ntp-icon)
 
 ### vim
 
