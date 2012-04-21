@@ -26,4 +26,4 @@ title: "Ресурсы"
 
 ### Сервисы
 
-* [ruby-toolbox][https://www.ruby-toolbox.com/]
+* [ruby-toolbox](https://www.ruby-toolbox.com/)
