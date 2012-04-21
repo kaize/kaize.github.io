@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : kaize
     livefyre :
       site_id : 123
     intensedebate :
