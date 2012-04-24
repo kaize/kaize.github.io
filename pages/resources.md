@@ -7,10 +7,12 @@ title: "Ресурсы"
 
 ### Документация
 
-* [rails guides](http://guides.rubyonrails.org/)
+* [nashbridges.me](http://nashbridges.me/)
+* [rails guides](http://guides.rubyonrails.org/))
 * [apidock.com](http://apidock.com)
 * [ru.wikibooks.org/wiki/Ruby](http://ru.wikibooks.org/wiki/Ruby)
 * [api.rubyonrails.org](http://api.rubyonrails.org/)
+* [Rails Searchable API Doc](http://railsapi.com/)
 
 ### Блоги
 
@@ -38,3 +40,7 @@ title: "Ресурсы"
 * [travis-ci](http://travis-ci.org/)
 * [relishapp.com](https://www.relishapp.com/)
 * [lucidchart.com](https://www.lucidchart.com/)
+
+### Chef
+
+* [foodcritic](http://acrmp.github.com/foodcritic/)

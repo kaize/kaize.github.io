@@ -15,7 +15,8 @@ title: "Рабочее окружение"
 
 ### soft
 
-keepassx - password manager
+* keepassx - password manager
+* dropbox
 
 ### chrome extensions
 
