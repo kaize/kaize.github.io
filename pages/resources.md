@@ -41,6 +41,9 @@ title: "Ресурсы"
 * [relishapp.com](https://www.relishapp.com/)
 * [lucidchart.com](https://www.lucidchart.com/)
 
+* [gemnasium.com](https://gemnasium.com/)
+* [stillmaintained.com](http://stillmaintained.com/)
+)
 ### Chef
 
 * [foodcritic](http://acrmp.github.com/foodcritic/)
