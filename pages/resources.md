@@ -8,11 +8,17 @@ title: "Ресурсы"
 ### Документация
 
 * [nashbridges.me](http://nashbridges.me/)
-* [rails guides](http://guides.rubyonrails.org/))
+* [rails guides](http://guides.rubyonrails.org/)
 * [apidock.com](http://apidock.com)
 * [ru.wikibooks.org/wiki/Ruby](http://ru.wikibooks.org/wiki/Ruby)
 * [api.rubyonrails.org](http://api.rubyonrails.org/)
 * [Rails Searchable API Doc](http://railsapi.com/)
+* [rusrails](http://rusrails.ru/)
+
+### Сервисы для изучения ruby
+
+[rubeque.com](http://rubeque.com/)
+[rubymonk.com](http://rubymonk.com/)
 
 ### Блоги
 
@@ -22,11 +28,12 @@ title: "Ресурсы"
 * [yehudakatz.com](http://yehudakatz.com/)
 * [solnic.eu](http://solnic.eu/)
 * [ruby on rails с нуля](http://rubydev.ru/)
+* [Блог Леонида Шевцова](http://leonid.shevtsov.me/ru)
 
 ### Casts
 
 * [railscasts](http://railscasts.com/)
-* [asciicasts.com](http://asciicasts.com/)
+* [asciicasts](http://asciicasts.com/)
 
 ### Комьюнити
 
@@ -40,10 +47,13 @@ title: "Ресурсы"
 * [travis-ci](http://travis-ci.org/)
 * [relishapp.com](https://www.relishapp.com/)
 * [lucidchart.com](https://www.lucidchart.com/)
-
 * [gemnasium.com](https://gemnasium.com/)
 * [stillmaintained.com](http://stillmaintained.com/)
-)
+
 ### Chef
 
 * [foodcritic](http://acrmp.github.com/foodcritic/)
+
+### Полезное
+
+* [braingames.ru](http://braingames.ru/)

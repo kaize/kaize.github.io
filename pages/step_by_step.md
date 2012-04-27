@@ -7,7 +7,7 @@ title: "Ruby & Rails: шаг за шагом"
 
 ### Setup
 
-[rvm](http://beginrescueend.com/)
+[rvm](https://rvm.io/)
 
 ### Start
 
@@ -15,10 +15,7 @@ title: "Ruby & Rails: шаг за шагом"
 
 [gem](http://ru.wikipedia.org/wiki/RubyGems)
 
-[rubeque.com](http://rubeque.com/)
-
-[rubymonk.com](http://rubymonk.com/)
-
-[getting started](http://guides.rubyonrails.org/getting_started.html)
 
 [bundler](http://gembundler.com/)
+
+[getting started](http://guides.rubyonrails.org/getting_started.html)
