@@ -46,4 +46,5 @@ title: "Gems"
 * cocoon - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
 * meta_search - Object-based searching (and more) for simply creating search forms.
 * money
+* jquery-ui-rails - jQuery UI Bootstrap
 
