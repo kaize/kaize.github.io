@@ -50,15 +50,12 @@ title: "Ресурсы"
 * [lucidchart.com](https://www.lucidchart.com/)
 * [gemnasium.com](https://gemnasium.com/)
 * [stillmaintained.com](http://stillmaintained.com/)
-<<<<<<< Updated upstream
 
-=======
 * [coderwall.com](http://coderwall.com/)
 * [cloud9 IDE](http://c9.io/)
 * [railsbp.com](http://railsbp.com/)
 * [codeclimate.com](https://codeclimate.com)
-)
->>>>>>> Stashed changes
+
 ### Chef
 
 * [foodcritic](http://acrmp.github.com/foodcritic/)
