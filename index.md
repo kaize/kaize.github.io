@@ -20,5 +20,7 @@ title: База знаний Кайдзен
 
 [Книги](/pages/books.html)
 
+[Git](/pages/git.html)
+
 [VIM](/pages/vim.html)
 
