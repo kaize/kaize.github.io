@@ -60,6 +60,10 @@ title: "Ресурсы"
 
 * [foodcritic](http://acrmp.github.com/foodcritic/)
 
+### Runit
+
+* [runit for ruby](http://rubyists.github.com/2011/05/02/runit-for-ruby-and-everything-else.html)
+
 ### Полезное
 
 * [braingames.ru](http://braingames.ru/)
