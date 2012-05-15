@@ -10,6 +10,12 @@ title: База знаний Кайдзен
 
 [Статьи](/pages/articles.html)
 
+[DDD](/pages/ddd.html)
+
+[JavaScript](/pages/javascript.html)
+
+[Принципы ООП дизайна](/pages/principles.html)
+
 [Ресурсы](/pages/resources.html)
 
 [Ruby & Rails: шаг за шагом. Практика](/pages/step_by_step.html)
@@ -21,6 +27,8 @@ title: База знаний Кайдзен
 [Книги](/pages/books.html)
 
 [Git](/pages/git.html)
+
+[Twitter Bootstrap](/pages/twitter_bootstrap.html)
 
 [VIM](/pages/vim.html)
 

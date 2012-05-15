@@ -10,6 +10,7 @@ title: "Планы"
 skip_filters
 application_controller не свалка методов
 условие по агрегату - метод
+autoloading
 
 ### Куда?
 

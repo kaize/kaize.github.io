@@ -30,7 +30,8 @@ title: "Ресурсы"
 * [ruby on rails с нуля](http://rubydev.ru/)
 * [Блог Леонида Шевцова](http://leonid.shevtsov.me/ru)
 * [7vn.ru](http://7vn.ru/)
-
+* [Mitch Crowe](http://blog.mitchcrowe.com/)
+)
 ### Casts
 
 * [railscasts](http://railscasts.com/)

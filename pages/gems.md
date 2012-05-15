@@ -24,6 +24,7 @@ title: "Gems"
 * capistrano_colors - подсветка строк при деплое (начинаем понимать что происходит)
 * minitest
 * mocha - stub/mock для тестирования
+* webmock - stub/mock для io
 * simplecov - test coverage
 * ci_reporter
 * factory_girl_rails
