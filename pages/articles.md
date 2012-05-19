@@ -7,10 +7,11 @@ title: "Статьи"
 
 ### Полезное
 
-* [TDD](http://wiki.agiledev.ru/doku.php?id=tdd)
 * [Коды возврата & исключения](http://habrahabr.ru/post/131212/)
 * [устройство индексов](http://www.sql.ru/articles/mssql/03013101indexes.shtml)
 * [Defensive Design. Откуда берутся сбои](http://igor.quatrocode.com/2009/02/defensive-design.html)
+* [TDD](http://wiki.agiledev.ru/doku.php?id=tdd)
+* [REST](http://habrahabr.ru/post/144011/)
 
 ### Ruby
 
@@ -21,6 +22,7 @@ title: "Статьи"
 
 ### Rails
 
+* [Тестирование в стиле TSA](http://habrahabr.ru/post/143616/)
 * [ActiveRecord Query Interface 3.0](http://habrahabr.ru/post/82767/)
 * [Time.now против Time.zone.now в Rails](http://leonid.shevtsov.me/ru/time-now-vs-time-zone-now-in-rails)
 * [Что же такое Railtie, Engine и Plugin?](http://memo.undr.su/2011/04/01/chto-zhe-takoe-railtie-engine-i-plugin/)
