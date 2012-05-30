@@ -24,6 +24,7 @@ title: "Статьи"
 
 * [Тестирование в стиле TSA](http://habrahabr.ru/post/143616/)
 * [ActiveRecord Query Interface 3.0](http://habrahabr.ru/post/82767/)
+* [Give Rails Autoloading a Boot to the Head] (http://wondible.com/2011/12/23/give-rails-autoloading-a-boot-to-the-head/)
 * [Time.now против Time.zone.now в Rails](http://leonid.shevtsov.me/ru/time-now-vs-time-zone-now-in-rails)
 * [Что же такое Railtie, Engine и Plugin?](http://memo.undr.su/2011/04/01/chto-zhe-takoe-railtie-engine-i-plugin/)
 * [Does My Rails App Need a Service Layer?](http://blog.carbonfive.com/2012/01/10/does-my-rails-app-need-a-service-layer/)
