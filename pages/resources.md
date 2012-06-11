@@ -36,6 +36,7 @@ title: "Ресурсы"
 
 * [railscasts](http://railscasts.com/)
 * [asciicasts](http://asciicasts.com/)
+* [hasBrains](http://ruby.hasbrains.ru/)
 
 ### Комьюнити
 
