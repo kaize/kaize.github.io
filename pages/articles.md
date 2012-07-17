@@ -30,4 +30,4 @@ title: "Статьи"
 * [Does My Rails App Need a Service Layer?](http://blog.carbonfive.com/2012/01/10/does-my-rails-app-need-a-service-layer/)
 * [Rails is not your application](http://blog.firsthand.ca/2011/10/rails-is-not-your-application.html)
 * [The 10 Most Underused ActiveRecord::Relation Methods](http://blog.mitchcrowe.com/blog/2012/04/14/10-most-underused-activerecord-relation-methods/)
-
+* [About the composed_of removal](http://blog.plataformatec.com.br/2012/06/about-the-composed_of-removal/)
