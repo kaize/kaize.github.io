@@ -30,6 +30,7 @@ title: "Gems"
 * factory_girl_rails
 * turn - A new look and feel for Test::Unit output
 * tconsole - тестовая консоль
+* ransack - Object-based searching
 
 ### Дополнителные
 

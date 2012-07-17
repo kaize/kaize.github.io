@@ -10,3 +10,7 @@ title: "Git"
 * [pro git](http://progit.org/book/ru/)
 * [Architecture of Git](http://www.aosabook.org/en/git.html)
 
+### Практика
+
+* [tryGit](http://try.github.com/)
+

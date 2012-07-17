@@ -13,6 +13,10 @@ title: "Статьи"
 * [TDD](http://wiki.agiledev.ru/doku.php?id=tdd)
 * [REST](http://habrahabr.ru/post/144011/)
 
+### Методики
+
+* [Экстремальное программирование – реальность и мифы](http://www.skipy.ru/philosophy/xp.html)
+
 ### Ruby
 
 * [Иерархия ошибок в Ruby](http://leonid.shevtsov.me/ru/ierarhiya-oshibok-v-ruby-a-takzhe-kakie-isklyucheniya-nuzhno-brosat-a-kakie-lovit)
@@ -31,3 +35,4 @@ title: "Статьи"
 * [Rails is not your application](http://blog.firsthand.ca/2011/10/rails-is-not-your-application.html)
 * [The 10 Most Underused ActiveRecord::Relation Methods](http://blog.mitchcrowe.com/blog/2012/04/14/10-most-underused-activerecord-relation-methods/)
 * [About the composed_of removal](http://blog.plataformatec.com.br/2012/06/about-the-composed_of-removal/)
+* [Where's Your Business Logic?](http://collectiveidea.com/blog/archives/2012/06/28/wheres-your-business-logic/)
