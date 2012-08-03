@@ -5,6 +5,7 @@ title: "Принципы ООП дизайна"
 {% include JB/setup %}
 {% include JB/comments %}
 
+* [GRASP](http://ru.wikipedia.org/wiki/GRASP)
 * [Принцип одного уровня абстракции](http://habrahabr.ru/post/126227/)
 * [Закон Деметры](http://msdn.microsoft.com/ru-ru/magazine/cc947917.aspx)
 * [Принцип единственности ответственности](http://blog.byndyu.ru/2009/10/blog-post.html)
