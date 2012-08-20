@@ -17,6 +17,7 @@ title: "Ресурсы"
 
 ### Сервисы для изучения ruby
 
+[try ruby](http://tryruby.org/)
 [rubeque.com](http://rubeque.com/)
 [rubymonk.com](http://rubymonk.com/)
 
