@@ -12,6 +12,7 @@ title: "Статьи"
 * [Defensive Design. Откуда берутся сбои](http://igor.quatrocode.com/2009/02/defensive-design.html)
 * [TDD](http://wiki.agiledev.ru/doku.php?id=tdd)
 * [REST](http://habrahabr.ru/post/144011/)
+* [UML](http://habrahabr.ru/post/150041/)
 
 ### Методики
 
