@@ -22,6 +22,7 @@ title: "Статьи"
 
 * [Иерархия ошибок в Ruby](http://leonid.shevtsov.me/ru/ierarhiya-oshibok-v-ruby-a-takzhe-kakie-isklyucheniya-nuzhno-brosat-a-kakie-lovit)
 * [Объектная модель в Ruby](http://7vn.ru/blog/2011/11/18/object-model/)
+* [Введение в объектно-ориентированный Ruby](http://nashbridges.me/introducing-ruby-oop)
 * [Вникаем в include и extend](http://habrahabr.ru/post/143483/)
 * [Гномики и метапрограммирование в Ruby](http://rubyflow.ru/items/1130)
 * [Unexpected Ruby Behaviour](http://greyblake.com/blog/2012/08/10/unexpected-ruby-behaviour/)
