@@ -20,6 +20,7 @@ title: "Ресурсы"
 [try ruby](http://tryruby.org/)
 [rubeque.com](http://rubeque.com/)
 [rubymonk.com](http://rubymonk.com/)
+[codeacademy](http://www.codecademy.com/ru/tracks/ruby)
 
 ### Блоги
 
