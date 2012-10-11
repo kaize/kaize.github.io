@@ -1,9 +1,9 @@
 ---
 layout: page
+comments: true
 title: "Twitter Bootstrap"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 * [Bootstrap, from Twitter](http://twitter.github.com/bootstrap/)
 * [Bootbox.js](http://bootboxjs.com/)

@@ -1,9 +1,9 @@
 ---
 layout: page
+comments: true
 title: "Статьи"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 ### Полезное
 

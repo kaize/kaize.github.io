@@ -1,9 +1,9 @@
 ---
 layout: page
+comments: true
 title: "Правила игры"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 ruby 1.9.3
 
@@ -18,4 +18,3 @@ ruby 1.9.3
 * Объекты получаем отдельно, используем отдельно;
 * Используем git flow
 * На уникальное поле - уникальный индекс (+ uniqueness).
-

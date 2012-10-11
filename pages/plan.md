@@ -18,4 +18,3 @@ chef
 vagrant
 runit
 monit
-

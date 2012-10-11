@@ -1,9 +1,9 @@
 ---
 layout: page
+comments: true
 title: "Книги"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 ### Совершенный код
 

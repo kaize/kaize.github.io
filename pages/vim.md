@@ -1,9 +1,9 @@
 ---
 layout: page
+comments: true
 title: "Vim"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 * [vimcasts](http://vimcasts.org/)
 * [vimgolf](http://vimgolf.com/)

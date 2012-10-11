@@ -1,9 +1,9 @@
 ---
 layout: page
+comments: true
 title: "Ресурсы"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 ### Документация
 

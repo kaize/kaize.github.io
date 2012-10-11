@@ -1,9 +1,9 @@
 ---
 layout: page
+comments: true
 title: "Gems"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 ### Основные
 
@@ -49,4 +49,3 @@ title: "Gems"
 * meta_search - Object-based searching (and more) for simply creating search forms.
 * money
 * jquery-ui-rails - jQuery UI Bootstrap
-
