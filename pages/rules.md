@@ -1,6 +1,5 @@
 ---
 layout: page
-comments: true
 title: "Правила игры"
 ---
 {% include JB/setup %}

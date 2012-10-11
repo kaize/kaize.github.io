@@ -1,6 +1,5 @@
 ---
 layout: page
-comments: true
 title: "Статьи"
 ---
 {% include JB/setup %}

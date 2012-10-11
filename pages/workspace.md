@@ -1,6 +1,5 @@
 ---
 layout: page
-comments: true
 title: "Рабочее окружение"
 ---
 {% include JB/setup %}

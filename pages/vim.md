@@ -1,6 +1,5 @@
 ---
 layout: page
-comments: true
 title: "Vim"
 ---
 {% include JB/setup %}

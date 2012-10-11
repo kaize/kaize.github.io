@@ -3,7 +3,6 @@ layout: post
 title: "Валидация на грани фола"
 description: ""
 category: rails
-comments: true
 tags: [validation, form]
 ---
 {% include JB/setup %}

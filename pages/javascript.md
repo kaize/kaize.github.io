@@ -1,6 +1,5 @@
 ---
 layout: page
-comments: true
 title: "JavaScript"
 ---
 {% include JB/setup %}

@@ -1,6 +1,5 @@
 ---
 layout: page
-comments: true
 title: "Twitter Bootstrap"
 ---
 {% include JB/setup %}
