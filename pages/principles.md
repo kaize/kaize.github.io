@@ -3,7 +3,6 @@ layout: page
 title: "Принципы ООП дизайна"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 * [GRASP](http://ru.wikipedia.org/wiki/GRASP)
 * [Принцип одного уровня абстракции](http://habrahabr.ru/post/126227/)
@@ -15,4 +14,3 @@ title: "Принципы ООП дизайна"
 * [Принцип инверсии зависимостей](http://blog.byndyu.ru/2009/12/blog-post.html)
 * [Command Query Separation](http://igor.quatrocode.com/2009/10/command-query-separation.html)
 * [SOLID](http://igor.quatrocode.com/2008/09/solid-top-5.html)
-

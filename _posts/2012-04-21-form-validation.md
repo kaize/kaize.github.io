@@ -6,7 +6,6 @@ category: rails
 tags: [validation, form]
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 Обычно, про валидацию в рельсах говорят только хорошее. Сегодня мы поговорим о некоторых ситуациях где система дает сбой.
 

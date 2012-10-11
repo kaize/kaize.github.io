@@ -3,7 +3,6 @@ layout: page
 title: "Книги"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 ### Совершенный код
 

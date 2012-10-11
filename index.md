@@ -1,5 +1,6 @@
 ---
 layout: page
+comments: false
 title: База знаний Кайдзен
 <!--tagline: Supporting tagline-->
 ---
@@ -31,4 +32,3 @@ title: База знаний Кайдзен
 [Twitter Bootstrap](/pages/twitter_bootstrap.html)
 
 [VIM](/pages/vim.html)
-

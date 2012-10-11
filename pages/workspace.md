@@ -3,7 +3,6 @@ layout: page
 title: "Рабочее окружение"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 ### gitflow
 

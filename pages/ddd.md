@@ -3,7 +3,6 @@ layout: page
 title: "Domain Driven Design"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 ### Теория
 
@@ -15,4 +14,3 @@ title: "Domain Driven Design"
 
 * [Создание домена](http://blog.byndyu.ru/2010/05/domain-driven-design.html)
 * [DDD подход к решению задачи сложной фильтрации данных](http://codemehanika.org/blog/2011-05-10-pattern-composite-in-filtering-tasks.html)
-

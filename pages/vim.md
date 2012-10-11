@@ -3,7 +3,6 @@ layout: page
 title: "Vim"
 ---
 {% include JB/setup %}
-{% include JB/comments %}
 
 * [vimcasts](http://vimcasts.org/)
 * [vimgolf](http://vimgolf.com/)
