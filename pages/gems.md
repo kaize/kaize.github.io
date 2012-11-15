@@ -50,3 +50,7 @@ title: "Gems"
 * [meta_search](https://github.com/ernie/meta_search) - Object-based searching (and more) for simply creating search forms.
 * [money](https://github.com/RubyMoney/money) - Конвертация валют
 * [omniauth](https://github.com/intridea/omniauth) - Масштабируемая система OAuth авторизации
+
+### Black list
+
+* device
