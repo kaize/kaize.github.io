@@ -33,6 +33,7 @@ title: "Gems"
 
 ### Дополнителные
 
+* [enumerize](https://github.com/brainspec/enumerize) - поле типа перечисление с поддержкой I18n и ActiveRecord/Mongoid
 * ya_acl - управление правами
 * js-routes - Brings Rails named routes to javascript
 * gon - Your Rails variables in your JS
