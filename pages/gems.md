@@ -49,4 +49,4 @@ title: "Gems"
 * [cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
 * [meta_search](https://github.com/ernie/meta_search) - Object-based searching (and more) for simply creating search forms.
 * [money](https://github.com/RubyMoney/money) - Конвертация валют
-
+* [omniauth](https://github.com/intridea/omniauth) - Масштабируемая система OAuth авторизации
