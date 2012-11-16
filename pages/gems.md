@@ -46,7 +46,7 @@ title: "Gems"
 * [breadcrumbs_on_rails](https://github.com/weppos/breadcrumbs_on_rails)
 * [acts-as-taggable-on](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts
 * [cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
-* [money](https://github.com/RubyMoney/money) - Конвертация валют
+* [money](https://github.com/RubyMoney/money) - Реализация паттерна [Money](http://martinfowler.com/eaaCatalog/money.html) для Ruby
 * [omniauth](https://github.com/intridea/omniauth) - Масштабируемая система OAuth авторизации
 
 ### Black list
