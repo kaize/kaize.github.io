@@ -20,7 +20,6 @@ title: "Gems"
 * [capistrano](https://github.com/capistrano/capistrano) - деплой
 * [rvm-capistrano](https://github.com/wayneeseguin/rvm-capistrano) - интеграция RVM / Capistrano
 * [capistrano-ext](https://github.com/jamis/capistrano-ext) - добавляем staging
-* [capistrano_colors](https://github.com/stjernstrom/capistrano_colors) - подсветка строк при деплое (начинаем понимать что происходит)
 * [minitest](https://github.com/seattlerb/minitest)
 * [mocha](https://github.com/freerange/mocha) - stub/mock для тестирования
 * [webmock](https://github.com/bblimke/webmock) - stub/mock для io
