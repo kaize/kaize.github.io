@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Vim"
+category: vim
+tags: [vim]
 ---
 {% include JB/setup %}
 
