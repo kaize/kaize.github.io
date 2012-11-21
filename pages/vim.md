@@ -1,9 +1,12 @@
 ---
 layout: page
 title: "Vim"
+category: vim
+tags: [vim]
 ---
 {% include JB/setup %}
 
+* [Как пользоваться vim](http://ru.najomi.org/vim)
 * [vimcasts](http://vimcasts.org/)
 * [vimgolf](http://vimgolf.com/)
 * [vimbits](http://vimbits.com/)
