@@ -10,7 +10,7 @@ title: "Ruby & Rails: шаг за шагом"
 
 ### Start
 
-[Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+[Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) ([ru](http://russian.railstutorial.org/chapters/beginning))
 
 [irb](http://ru.wikipedia.org/wiki/Interactive_Ruby_Shell)
 
