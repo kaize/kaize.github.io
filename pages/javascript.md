@@ -14,6 +14,7 @@ title: "JavaScript"
 ### Фреймворки
 
 * [Backbone](http://backbonejs.org/) ([gem](http://github.com/codebrew/backbone-rails))
+* [Ember.js](http://emberjs.com/) ([gem](https://github.com/emberjs/ember-rails))
 
 ### Плагины
 
@@ -21,5 +22,6 @@ title: "JavaScript"
 
 ### Полезное
 
-* http://shichuan.github.com/javascript-patterns/
-* http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html
+* [http://shichuan.github.com/javascript-patterns/](http://shichuan.github.com/javascript-patterns/)
+* [http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html](http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html)
+* [http://addyosmani.github.com/todomvc/](http://addyosmani.github.com/todomvc/)
