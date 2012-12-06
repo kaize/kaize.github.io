@@ -19,13 +19,15 @@ title: "Рабочее окружение"
 
 ### chrome extensions
 
-[Ruby API Search](https://chrome.google.com/webstore/detail/fdliacdjhdeaamgoaihcgcbgklomenji?utm_source=chrome-ntp-icon)
+[Ruby on Rails API Search](https://chrome.google.com/webstore/detail/ruby-on-rails-api-search/nbhhppofdccphcpbilanmljnlkmbgike)
 
 [XV - XML Viewer](https://chrome.google.com/webstore/detail/eeocglpgjdpaefaedpblffpeebgmgddk)
 
 [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 
 [Advanced REST client Application](https://chrome.google.com/webstore/detail/hgmloofddffdnphfgcellkdfbfbjeloo/related?utm_source=chrome-ntp-icon)
+
+[NewRelic + Airbrake](https://chrome.google.com/webstore/detail/newrelic-%2B-airbrake-for-g/emencamphkobkmeloepceomcacgejlnc)
 
 ### vim
 
