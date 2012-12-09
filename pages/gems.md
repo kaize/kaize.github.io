@@ -4,6 +4,11 @@ title: "Gems"
 ---
 {% include JB/setup %}
 
+### Статьи о гемах
+
+* [Patterns](http://guides.rubygems.org/patterns/) - Common practices to
+make your gem users’ and other developers’ lives easier.
+
 ### Основные
 
 * [configus](https://github.com/kaize/configus) - управление конфигурациями 
