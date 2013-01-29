@@ -62,6 +62,7 @@ title: "Ресурсы"
 ### Chef
 
 * [foodcritic](http://acrmp.github.com/foodcritic/)
+* [chef-solo ecample](https://github.com/le0pard/chef-solo-example)
 
 ### Runit
 
