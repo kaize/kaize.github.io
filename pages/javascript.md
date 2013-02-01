@@ -11,6 +11,7 @@ title: "JavaScript"
 * [Underscore.js](http://underscorejs.org/) ([gem](http://github.com/rweng/underscore-rails))
 * [Underscore.string](http://epeli.github.com/underscore.string/) ([gem](https://github.com/jaimie-van-santen/underscore-string-rails))
 * [Moment.js](http://momentjs.com/) ([gem](http://github.com/derekprior/momentjs-rails))
+* [json2](https://github.com/douglascrockford/JSON-js)
 
 ### Фреймворки
 
@@ -20,6 +21,7 @@ title: "JavaScript"
 ### Плагины
 
 * [Chosen](http://harvesthq.github.com/chosen/) ([gem](http://github.com/tsechingho/chosen-rails))
+* [select2](http://ivaynberg.github.com/select2/) ([gem](https://github.com/argerim/select2-rails))
 
 ### Полезное
 
