@@ -8,6 +8,7 @@ title: "Git"
 * [Что скрывает от нас директория .git](http://habrahabr.ru/post/143079/)
 * [pro git](http://progit.org/book/ru/)
 * [Architecture of Git](http://www.aosabook.org/en/git.html)
+* [Git Tips From the Pros](http://net.tutsplus.com/tutorials/tools-and-tips/git-tips-from-the-pros/)
 
 ### Практика
 
