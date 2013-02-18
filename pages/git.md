@@ -13,3 +13,5 @@ title: "Git"
 ### Практика
 
 * [tryGit](http://try.github.com/)
+* [GitHowTo](http://githowto.com/)
+* [Learn Git Branching](http://pcottle.github.com/learnGitBranching/)
