@@ -12,6 +12,7 @@ title: "Статьи"
 * [TDD](http://wiki.agiledev.ru/doku.php?id=tdd)
 * [REST](http://habrahabr.ru/post/144011/)
 * [UML](http://habrahabr.ru/post/150041/)
+* [CLI](http://habrahabr.ru/post/150950/)
 
 ### Методики
 
