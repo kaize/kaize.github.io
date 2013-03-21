@@ -25,6 +25,7 @@ title: "JavaScript"
 
 ### Полезное
 
+* [http://superherojs.com/](http://superherojs.com/)
 * [http://shichuan.github.com/javascript-patterns/](http://shichuan.github.com/javascript-patterns/)
 * [http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html](http://killdream.github.com/blog/2011/10/understanding-javascript-oop/index.html)
 * [http://addyosmani.github.com/todomvc/](http://addyosmani.github.com/todomvc/)
