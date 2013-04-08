@@ -13,6 +13,7 @@
 * value object, embedded object
 * методы вопросы any? present? blank? zero?
 * аттрибуты в моделях по имени существующих методов
+* scoped vs all, includes
 
 ## for all
 
