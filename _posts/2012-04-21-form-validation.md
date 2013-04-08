@@ -90,18 +90,44 @@ tags: [validation, form]
 И при создании пользователя мы хотим воспользоваться методом build
 
 {% highlight ruby linenos %}
-
-    comany = Company.first
-    @user = company.users.build(params)
+  def resource_company
+    @comany = Company.find params[:company_id]
+  end
+  
+  def new
+    @user = UserEditType.new
+  end
+  
+  def create
+    @user = resource_company.users.build(params[:user])
     
+    if @user.save?
+      redirect_to edit_user_path(@user)
+    else
+      render :new
+    end
+  end  
 {% endhighlight %}
 
 В данном случае @user будет объектом класса User, а если нам нужен конерктный Type можно воспользоваться методом becomes:
 
 {% highlight ruby linenos %}
-
-    comany = Company.first
-    user = company.users.build(params)
+  def resource_company
+    @comany = Company.find params[:company_id]
+  end
+  
+  def new
+    @user = UserEditType.new
+  end
+  
+  def create
+    user = resource_company.users.build(params[:user])
     @user = user.becomes(UserEditType)
     
+    if @user.save?
+      redirect_to edit_user_path(@user)
+    else
+      render :new
+    end
+  end
 {% endhighlight %}
