@@ -79,7 +79,7 @@ tags: [validation, form]
 
 {% highlight ruby linenos %}
 
-    class Department
+    class Company
       attr_accessible :name, :user_id
         
       has_many :users, :dependent => :destroy
