@@ -73,3 +73,35 @@ tags: [validation, form]
 
 Из последнего примера видно, что решается и другая проблема, связанная с attr_accessible. Вы конечно можете возразить, что для этого можно пользоваться опцией :as, но в реальности она нарушает инкапсуляцию, добавляя в модель информацию о вышележащем слое.
 
+### Types и Nested Models
+
+Дополним сущесвтующую ситуацию моделью Company, к оторой принадлежат пользователи:
+
+{% highlight ruby linenos %}
+
+    class Department
+      attr_accessible :name, :user_id
+        
+      has_many :users, :dependent => :destroy
+    end
+
+{% endhighlight %}
+
+И при создании пользователя мы хотим воспользоваться методом build
+
+{% highlight ruby linenos %}
+
+    comany = Company.first
+    @user = company.users.build(params)
+    
+{% endhighlight %}
+
+В данном случае @user будет объектом класса User, а если нам нужен конерктный Type можно воспользоваться методом becomes:
+
+{% highlight ruby linenos %}
+
+    comany = Company.first
+    user = company.users.build(params)
+    @user = user.becomes(UserEditType)
+    
+{% endhighlight %}
