@@ -61,38 +61,37 @@ title: "Рабочее окружение"
 
 {% highlight bash linenos %}
 
-    [color]
-      diff = auto
-      status = auto
-      branch = auto
-      interactive = auto
-      ui = true
-      pager = true
+[color]
+  branch = auto
+  diff = auto
+  interactive = auto
+  status = auto
+  ui = auto
+  pager = true
 
-    [color "branch"]
-      current = yellow reverse
-      local = yellow
-      remote = green
+[merge]
+  summary=true
 
-    [color "diff"]
-      meta = yellow bold
-      frag = magenta bold
-      old = red bold
-      new = green bold
-
-    [color "status"]
-      added = yellow
-      changed = green
-      untracked = cyan
-    [alias]
-      co = checkout
-      br = branch
-      ci = commit
-      st = status
-        unstage = reset HEAD --
-        last = log -1 HEAD
-        up = pull --rebase
-        put = push origin HEAD
+[alias]
+  b = branch -v
+  r = remote -v
+  t = tag -l
+  cp = cherry-pick -x
+  co = checkout
+  br = branch
+  ci = commit
+  st = status -sb
+  ds = diff --staged
+  amend = commit --amend -C HEAD
+  undo = reset --soft HEAD^
+	unstage = reset HEAD --
+  uncommit = reset --soft HEAD^
+	last = log -1 HEAD
+	up = pull --rebase
+	put = push origin HEAD
+	latest = for-each-ref --sort=-committerdate --format='%(committerdate:short) %(refname:short) [%(committername)]'
+  ls = log  --decorate --date=short
+  graph = log --graph --pretty=format':%C(yellow)%h%Cblue%d%Creset %s %C(white) %an, %ar%Creset'
 
 {% endhighlight %}
 

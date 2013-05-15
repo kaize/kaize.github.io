@@ -71,3 +71,4 @@ title: "Ресурсы"
 ### Полезное
 
 * [braingames.ru](http://braingames.ru/)
+* [bigocheatsheet](http://bigocheatsheet.com/)

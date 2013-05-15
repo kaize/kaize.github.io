@@ -26,6 +26,8 @@ title: "Статьи"
 * [Вникаем в include и extend](http://habrahabr.ru/post/143483/)
 * [Гномики и метапрограммирование в Ruby](http://rubyflow.ru/items/1130)
 * [Unexpected Ruby Behaviour](http://greyblake.com/blog/2012/08/10/unexpected-ruby-behaviour/)
+* [What Does Your Webserver Do When a User Hits Refresh?](http://www.shopify.com/technology/7535298-what-does-your-webserver-do-when-a-user-hits-refresh)
+
 
 ### Rails
 
@@ -40,3 +42,7 @@ title: "Статьи"
 * [The 10 Most Underused ActiveRecord::Relation Methods](http://blog.mitchcrowe.com/blog/2012/04/14/10-most-underused-activerecord-relation-methods/)
 * [About the composed_of removal](http://blog.plataformatec.com.br/2012/06/about-the-composed_of-removal/)
 * [Where's Your Business Logic?](http://collectiveidea.com/blog/archives/2012/06/28/wheres-your-business-logic/)
+
+### PM
+
+* [Анатомия ошибок](http://goblingame.blogspot.ru/2012/10/blog-post_12.html)
