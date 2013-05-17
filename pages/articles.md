@@ -13,6 +13,9 @@ title: "Статьи"
 * [REST](http://habrahabr.ru/post/144011/)
 * [UML](http://habrahabr.ru/post/150041/)
 * [CLI](http://habrahabr.ru/post/150950/)
+* [Протокол HTTP](http://squadette.ru/blog/2012/01/19/high-scalability/)
+* [Алгоритмы и структуры
+данных](http://squadette.ru/blog/2012/01/19/high-scalability-2/)
 
 ### Методики
 
