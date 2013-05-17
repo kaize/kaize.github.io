@@ -1,12 +1,17 @@
-_site/*
-_theme_packages/*
-
-Thumbs.db
+.bundle
 .DS_Store
+.sass-cache
+.gist-cache
+.pygments-cache
+_deploy
+public
+sass.old
+source.old
+source/_stash
+source/stylesheets/screen.css
+vendor
+node_modules
 
-!.gitkeep
-
-.rbenv-version
-.rvmrc
+.DS_Store
 *.swp
 *.swo
